@@ -1,0 +1,5 @@
+@import "src/assets/mixins.scss";
+
+.loding {
+    @include loding
+}
